@@ -1,0 +1,24 @@
+{
+  "routineSuggestions": [
+    "Morning Meditation: 10 minutes of mindfulness.",
+    "Hydration Check: Drink a glass of water.",
+    "Quick Review: Briefly review your top 3 priorities for the day.",
+    "Light Exercise: 15 minutes of stretching or a short walk.",
+    "Task Breakdown: Break down one large task into smaller, actionable steps.",
+    "Learning Block: Dedicate 20 minutes to learning something new.",
+    "Gratitude Practice: List three things you are grateful for.",
+    "Digital Detox: Avoid screens for the first 30 minutes of your day.",
+    "Meal Prep: Plan or prepare one healthy meal for the day.",
+    "Creative Burst: Spend 15 minutes on a creative activity (writing, drawing, etc.)."
+  ],
+  "featureDescriptions": {
+    "scan": "Quickly scan your environment or current state to inform your plan.",
+    "ideate": "Generate one-click functional ideas for your tasks and goals.",
+    "plan": "Create your daily routine with ease, tailored to your needs.",
+    "execute": "Start your day with a clear plan and get things done."
+  },
+  "aboutText": [
+    "Quick Start is designed to be your personal productivity companion, accessible even without an internet connection. We believe in simplifying the start of your day, allowing you to focus on what truly matters. Our intuitive interface and smart suggestions help you build a productive routine in just a few clicks.",
+    "Built with privacy and speed in mind, Quick Start runs entirely in your browser, ensuring your data stays with you. Get ready to transform your mornings and conquer your goals."
+  ]
+}
